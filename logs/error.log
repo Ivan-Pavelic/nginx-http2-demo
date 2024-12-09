@@ -1,0 +1,9 @@
+2024/12/09 03:43:52 [error] 5924#6024: *1 CreateFile() "C:\nginx\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/12/09 04:03:23 [warn] 9208#3648: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx\nginx-1.26.2/conf/nginx.conf:37
+2024/12/09 04:03:23 [notice] 9208#3648: signal process started
+2024/12/09 04:03:23 [warn] 6464#948: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx\nginx-1.26.2/conf/nginx.conf:37
+2024/12/09 04:04:02 [error] 6464#11208: *7 CreateFile() "C:\nginx\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", host: "localhost", referrer: "https://localhost/"
+2024/12/09 04:16:46 [notice] 3312#13768: signal process started
+2024/12/09 04:21:42 [warn] 18160#2256: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx\nginx-1.26.2/conf/nginx.conf:37
+2024/12/09 04:21:42 [notice] 18160#2256: signal process started
+2024/12/09 04:21:42 [warn] 4852#11092: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx\nginx-1.26.2/conf/nginx.conf:37
